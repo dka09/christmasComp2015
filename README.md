@@ -5,9 +5,7 @@ A solution to the Sky Leeds Christmas competition 2015 in Go.
 
 Download and install package from:
 
-```
 https://golang.org
-```
 
 or
 
