@@ -24,7 +24,7 @@ func main() {
 	}
 
 	endTime := time.Since(startTime)
-	fmt.Println(endTime.Nanoseconds() / 1000)
+	fmt.Println(endTime.Nanoseconds() / 1000, "µs")
 }
 
 // Find all possible numbers divisible by the num provided that are 3 digits in length.
