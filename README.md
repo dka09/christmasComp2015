@@ -12,7 +12,7 @@ or
 ```
 brew install go
 ```
-Check Go version
+### Check Go version
 ```
 go version
 ```
