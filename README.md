@@ -12,6 +12,22 @@ or
 ```
 brew install go
 ```
+Check Go version
+```
+go version
+```
+Ensure Go version 1.5.x is being used. 
+If not, uninstall Go and use --devel flag.
+
+```
+brew uninstall go
+```
+
+then
+
+```
+brew install go --devel
+```
 
 ## Running the application
 
